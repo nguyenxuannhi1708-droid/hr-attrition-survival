@@ -84,7 +84,9 @@ Outputs include:
 - **Explainability** (coefficients, feature importance, SHAP)
 
 ## 6) Results Summary (example placeholder)
-- C‑index (Cox): 0.73; RSF: 0.76. - Classifier AUC‑ROC: 0.86; Accuracy: 0.84 on hold‑out. - OverTime, MonthlyIncome (low), JobLevel, DistanceFromHome, and JobSatisfaction are key signals.
+- C‑index (Cox): 0.73; RSF: 0.76.
+- Classifier AUC‑ROC: 0.86; Accuracy: 0.84 on hold‑out.
+- OverTime, MonthlyIncome (low), JobLevel, DistanceFromHome, and JobSatisfaction are key signals.
 
 > Replace the numbers with your team’s final metrics and add 1–2 figures in `results/figures`.
 
