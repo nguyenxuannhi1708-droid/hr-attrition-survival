@@ -1,0 +1,9 @@
+survival:
+  event_col: event
+  duration_col: duration
+  horizons: [3, 6, 12]  # months
+  cox:
+    penalizer: 0.1
+  rsf:
+    n_estimators: 300
+    max_depth: 6

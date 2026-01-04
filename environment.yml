@@ -1,0 +1,15 @@
+name: hr-attrition
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - lifelines
+  - scikit-survival
+  - xgboost
+  - matplotlib
+  - seaborn
+  - shap
+  - pyyaml
