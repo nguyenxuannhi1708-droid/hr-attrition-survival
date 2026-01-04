@@ -1,6 +1,10 @@
 # Employee Attrition Prediction with Survival Analysis (IBM HR Analytics)
 
-> Final project for AI course — Group 8 > Project focus: proactive HR risk prediction using survival analysis + an interpretable classifier.
+Final project for AI course — Group 8 
+
+**Project focus:** proactive HR risk prediction using survival analysis + an interpretable classifier.
+
+License: MIT
 
 ## 1) Project Description
 This project builds an **AI co‑pilot for HR** that estimates **time‑to‑leave** and **short‑term attrition risk** for employees using the IBM HR Analytics sample dataset (1,470 rows, ~35 features). We combine **survival analysis** (Kaplan–Meier, Cox, Random Survival Forest) with a simple **classification baseline** (e.g., Logistic/XGBoost) and **explainable outputs** (SHAP/feature importances).
