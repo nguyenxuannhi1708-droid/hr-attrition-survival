@@ -99,8 +99,8 @@ Outputs include:
 - Re‑run the five commands in Section 5.
 
 ## 9) Authors & Attribution
-- Student: Nguyen Xuan Nhi (ID: 1137158) — Group 8  
+- Student: Nguyen Xuan Nhi (ID: 1137158) — Group 8
+- Course: Artificial Intelligence
 - Reference: *IBM HR Analytics Employee Attrition & Performance* dataset by IBM (synthetic).
 
-## 10) License
-Choose a license (e.g., MIT) and add it as `LICENSE` in the repo.
+
